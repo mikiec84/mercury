@@ -63,7 +63,7 @@
     "indexhtmlify": "^1.2.0",
     "istanbul": "^0.2.16",
     "javascript-editor": "^1.0.0",
-    "jquery": "^2.1.4",
+    "jquery": "^3.5.1",
     "json-globals": "^0.2.1",
     "lint-trap": "^1.0.1",
     "marked": "^0.3.2",
